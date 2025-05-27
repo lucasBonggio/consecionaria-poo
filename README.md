@@ -4,14 +4,14 @@
 ### Al ejecutar este programa, se muestran detalles de cada vehículo. Busca el vehículo mas caro, mas barato, que contengan cierta letra; También nos ordena según su orden narutal.
 
 
-##Herramientas utilizadas:
-### Java JDF 21.
+## Herramientas utilizadas:
+### Java JDK 21.
 ### Maven. 
 ### Dependencias:
-#### Spring Boot Dev Tools.
-#### Spring Boot Starter web. 
-#### Spring Boot Starter test.
-#### Lombok.
+##### Spring Boot Dev Tools.
+##### Spring Boot Starter web. 
+##### Spring Boot Starter test.
+##### Lombok.
 
 ## Instrucciones para ejecutar el proyecto:
 ### 1. Clonar el repositorio
