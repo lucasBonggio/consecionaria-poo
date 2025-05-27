@@ -14,10 +14,11 @@
 ##### Lombok.
 
 ## Instrucciones para ejecutar el proyecto:
-### 1. Clonar el repositorio
+#### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/lucasBonggio/consecionaria-poo.git
 ```
-### 2. Abrir el proyecto en tu IDE.
-### 3. Ejecutar la clase DemoApplication que contiene el método main.
-### 4. La aplicación termina una vez mostrados los datos de los vehículos.
+#### 2. Descomprimir el archivo .rar. 
+#### 3. Abrir el proyecto en tu IDE.
+#### 4. Ejecutar la clase DemoApplication que contiene el método main.
+#### 5. La aplicación termina una vez mostrados los datos de los vehículos.
