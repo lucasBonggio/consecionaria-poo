@@ -20,5 +20,5 @@ git clone https://github.com/lucasBonggio/consecionaria-poo.git
 ```
 #### 2. Descomprimir el archivo .rar. 
 #### 3. Abrir el proyecto en tu IDE.
-#### 4. Ejecutar la clase DemoApplication que contiene el método main.
+#### 4. Ejecutar la clase ConcesionariaPooApplication que contiene el método main.
 #### 5. La aplicación termina una vez mostrados los datos de los vehículos.
