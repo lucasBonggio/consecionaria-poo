@@ -1,6 +1,6 @@
 # Concesionaria de Vehículos
 ## Descripción
-### Proyecto que simula el funcionamiento de una consecionaria.
+### Proyecto que simula el funcionamiento de una concesionaria.
 ### Al ejecutarse,  el programa:
 ##### - Muestra la información detallada de cada vehículo (marca, modelo, precio).
 ##### - Determina cuál es el vehículo más caro y el más barato.
@@ -10,6 +10,7 @@
 
 ## Herramientas utilizadas:
 ### Java JDK 21.
-### Maven 3.5.0. 
+### Maven 3.5.0.
+### Implementación de APIs Stream y Collections.
 ### Dependencias:
-#####    - Lombok.
+####    - Lombok.
