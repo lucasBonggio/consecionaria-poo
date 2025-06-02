@@ -2,7 +2,7 @@
 ## Descripción
 ### Proyecto que simula el funcionamiento de una consecionaria.
 ### Al ejecutarse,  el programa:
-##### - Muestra la información detallada de cada vehículo (marca, modelo, tipo, precio).
+##### - Muestra la información detallada de cada vehículo (marca, modelo, precio).
 ##### - Determina cuál es el vehículo más caro y el más barato.
 ##### - Filtra los vehículos cuyo modelo contiene una letra específica (por ejemplo, la letra 'Y').
 ##### - Ordena los vehículos por precio (de mayor a menor).
